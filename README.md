@@ -1,6 +1,8 @@
 Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches
 ===================================================================================
 
+# if you want install "torch, opencv, png++", refer [README_PreSetting.md](./README_PreSetting.md)
+
 The repository contains
 
 - procedures to compute the stereo matching cost with a convolutional neural network;
